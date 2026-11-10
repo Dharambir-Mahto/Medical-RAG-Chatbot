@@ -1,0 +1,11 @@
+What symptoms did the patient report during admission, and what findings were documented in the laboratory report?
+
+Which antibiotics were administered during hospitalization, and what medications were prescribed at discharge?
+
+What were the patient's WBC, CRP, glucose, and HbA1c values, and how were they documented?
+
+Why was the patient admitted, and what clinical improvement was documented before discharge?
+
+What was the patient's home metformin dose, and was it continued during hospitalization?
+
+Summarize the patient's admission, laboratory findings, treatment, and discharge plan using evidence from all three documents.
